@@ -80,9 +80,14 @@
     "MainKey": "0xF1F43FA6B87B25FDFDBD683760025F115F88D6C879F8A7F2E7FEA7EDE7061CC7"
   },
   "2.0.4": {
-    "LATEST": true,
     "Url": "https://drayx.github.io/FLi-FModel/4654358756435695878/Mappings.usmap",
     "FileName": "FLi-2.0.4.usmap",
+    "MainKey": "0xF1F43FA6B87B25FDFDBD683760025F115F88D6C879F8A7F2E7FEA7EDE7061CC7"
+  },
+  "2.1.1": {
+    "LATEST": true,
+    "Url": "https://drayx.github.io/FLi-FModel/5463170148274744229/Mappings.usmap",
+    "FileName": "FLi-2.1.1.usmap",
     "MainKey": "0xF1F43FA6B87B25FDFDBD683760025F115F88D6C879F8A7F2E7FEA7EDE7061CC7"
   }
 }
